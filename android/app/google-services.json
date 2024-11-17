@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "201939947844",
+    "project_id": "logic-equations-eff15",
+    "storage_bucket": "logic-equations-eff15.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:201939947844:android:3174255d4f4d7541ed8711",
+        "android_client_info": {
+          "package_name": "com.logi.logicEquations"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfJT_MRU1wAyrR0zEqoIAYQPRgg4c0ipw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
